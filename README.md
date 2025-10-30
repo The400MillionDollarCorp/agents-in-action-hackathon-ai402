@@ -172,7 +172,7 @@ ALL    /proxy/:resourceId/*     # Access monetized resource (payment required)
 
 ## Support
 
-- Reach out on Twitter @bharathbabu3017
+- Reach out on Twitter @AIx402x
 
 ---
 
